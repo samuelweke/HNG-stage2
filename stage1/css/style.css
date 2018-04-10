@@ -1,0 +1,37 @@
+body{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	background: url('../img/hero-image.jpg') no-repeat -300px -100px ;
+	margin: 0;
+	padding: 0;
+
+}
+
+.container {
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+
+}
+
+h1{
+text-align: center;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 50px;
+color: #EDF7F8;
+padding-top : 20px;
+}
+
+.time{
+font-family: Imprima;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 30px;
+text-align: center;
+color: #A5EFF7;
+padding-top: 260px;
+
+}
